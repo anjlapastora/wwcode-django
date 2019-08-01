@@ -1,4 +1,4 @@
-#### Django :smile: :smile: :smile: (welcome!)
+# Django :smile: :smile: :smile: (welcome!)
 
 What you need first before starting on our study group? 
 
