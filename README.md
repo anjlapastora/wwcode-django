@@ -72,7 +72,7 @@ Your Django Project
 
 - Create URL
 
-- Instal Django Rest Framework
+- Install Django Rest Framework
 
   ```pip3 install djangorestframework```
 
@@ -88,6 +88,8 @@ References:
 https://tutorial.djangogirls.org/en/
 
 https://www.netguru.com/blog/top-10-django-apps-and-why-companies-are-betting-on-this-framework
+
+https://wwcodemanila.github.io/WWCodeManila-Python/#/flask/discussions/01_introduction
 
 
 
