@@ -1,1 +1,1 @@
-# wwcode-django
+# Django Tutorial
