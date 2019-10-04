@@ -62,13 +62,18 @@ First things first! Check your machine if:
 
 - Start Server `python manage.py runserver`
 
-- Create module
+- Create module 
 
 - Create URL
 
-- Install Django Rest Framework
+- Install Django Rest Framework  `pip3 install djangorestframework`
 
-  `pip3 install djangorestframework`
+- Use the following methods:
+
+  - [ ] Create
+  - [ ] Read
+  - [ ] Update
+  - [ ] Delete
 
 - Create and styling
 
