@@ -2,15 +2,15 @@
 
 #### What you need first before starting on our study group?
 
--  I have a text editor installed in my computer (e.g. Notepad++, Sublime).
+- [x] I have a text editor installed in my computer (e.g. Notepad++, Sublime).
 
--  I have Python installed in my computer 
+- [x] I have Python installed in my computer 
+  - [x] `python`
+  - [x] `pip`
+  - [x] `virtualenvironment`
 
-  - `python`
-  - `pip`
-  - `virtualenvironment`
+- [x] I'm familiar with the basics concepts of Python.
 
--  I'm familiar with the basics concepts of Python.
 
 
 #### Final Output
