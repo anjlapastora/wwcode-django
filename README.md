@@ -70,10 +70,10 @@ First things first! Check your machine if:
 
 - Use the following methods:
 
-  - [ ] Create
-  - [ ] Read
-  - [ ] Update
-  - [ ] Delete
+  - [x] Create
+  - [x] Read
+  - [x] Update
+  - [x] Delete
 
 - Create and styling
 
