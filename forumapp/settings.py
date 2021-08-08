@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     
     'users',
+    'questions',
 ]
 
 MIDDLEWARE = [
@@ -162,4 +163,6 @@ REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES' : (
         'rest_framework.permissions.IsAuthenticated',
     ),
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 2
 }

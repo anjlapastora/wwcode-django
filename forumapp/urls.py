@@ -47,5 +47,7 @@ urlpatterns = [
 
     path('api/', include('users.api.urls')),
 
+    path('api/', include('questions.api.urls')),
+
     re_path(r"^.*$", IndexTemplateView.as_view(), name='entry-point'),
 ]
